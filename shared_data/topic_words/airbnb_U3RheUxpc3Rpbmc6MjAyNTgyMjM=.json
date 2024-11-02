@@ -1,0 +1,103 @@
+{
+    "Environment": [
+        "areas",
+        "lokation",
+        "snot",
+        "consider",
+        "environment",
+        "base",
+        "locations",
+        "space",
+        "area",
+        "spaces",
+        "neighbourhood",
+        "neighborhood",
+        "park",
+        "home",
+        "bit"
+    ],
+    "Price": [
+        "fair",
+        "cosy",
+        "share",
+        "rated",
+        "handle",
+        "lot",
+        "money",
+        "price",
+        "level",
+        "value",
+        "lodge"
+    ],
+    "Features": [
+        "took",
+        "looking",
+        "face"
+    ],
+    "Facilities": [
+        "room",
+        "bathroom",
+        "make",
+        "bed",
+        "toilet",
+        "shower",
+        "left",
+        "cool",
+        "love",
+        "issue",
+        "amenities",
+        "rooms",
+        "services",
+        "place"
+    ],
+    "Dining": [
+        "toast",
+        "dinner",
+        "try",
+        "neat",
+        "kitchen",
+        "breakfast",
+        "restaurants"
+    ],
+    "Transport": [
+        "travel",
+        "bus",
+        "walk",
+        "transport",
+        "shop",
+        "drive",
+        "walking",
+        "tube",
+        "stops",
+        "light",
+        "check",
+        "parking",
+        "stop",
+        "distance",
+        "location"
+    ],
+    "Service": [
+        "hosts",
+        "living",
+        "response",
+        "attention",
+        "clean",
+        "hospitality",
+        "host"
+    ],
+    "Experience": [
+        "visit",
+        "minute",
+        "time",
+        "experience",
+        "say",
+        "storage",
+        "air",
+        "live",
+        "pleasure",
+        "feel",
+        "feeling",
+        "trip",
+        "stay"
+    ]
+}

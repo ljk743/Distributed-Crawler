@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.idea/
+.venv/
+testpakage/
+lit-nlp/data
+lit-nlp/model_saved

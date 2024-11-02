@@ -1,0 +1,63 @@
+{
+    "Environment": [
+        "bit",
+        "view",
+        "area",
+        "views"
+    ],
+    "Price": [
+        "charge",
+        "price"
+    ],
+    "Features": [
+        "way",
+        "design",
+        "quality"
+    ],
+    "Facilities": [
+        "room",
+        "facilities",
+        "bed",
+        "amenities",
+        "bathroom",
+        "pool",
+        "beds",
+        "gym",
+        "make",
+        "rooms",
+        "thing",
+        "place"
+    ],
+    "Dining": [
+        "food",
+        "restaurant",
+        "restaurants",
+        "breakfast"
+    ],
+    "Transport": [
+        "walk",
+        "check",
+        "bar",
+        "station",
+        "location"
+    ],
+    "Service": [
+        "steam",
+        "tea",
+        "customer",
+        "helpful",
+        "attention",
+        "staff",
+        "reception",
+        "clean",
+        "team",
+        "service"
+    ],
+    "Experience": [
+        "time",
+        "star",
+        "experience",
+        "feel",
+        "stay"
+    ]
+}
