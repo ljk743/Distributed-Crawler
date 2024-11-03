@@ -1,7 +1,7 @@
 # URL for the broker that Celery will use to send and receive messages.
 # 'pyamqp' indicates the use of the AMQP protocol (usually RabbitMQ).
 # The format is: 'protocol://username:password@hostname:port/vhost'
-broker_url = 'pyamqp://guest:guest@127.0.0.1:30001/crawler'
+broker_url = 'pyamqp://leak990:ljk123456@192.168.56.102:30001/crawler'
 
 # Backend configuration for storing task results.
 # 'rpc://' uses RabbitMQ's built-in RPC mechanism for result storage.

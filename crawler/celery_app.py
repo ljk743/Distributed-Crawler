@@ -15,6 +15,4 @@ app.config_from_object('crawler.celery_config')
 # - 'crawler.fetch_comments_from_booking': This module likely contains tasks related to fetching comments from Booking.com.
 # - 'crawler.fetch_comments_from_airbnb': This module likely contains tasks related to fetching comments from Airbnb.
 # Celery will search these modules for any task definitions (functions decorated with @shared_task or @task) and register them with the Celery application.
-app.autodiscover_tasks(['crawler.fetch_total_comments_from_booking',
-                        'crawler.fetch_comments_from_booking',
-                        'crawler.fetch_comments_from_airbnb'])
+app.autodiscover_tasks(['crawler.fetch_comments_from_airbnb'])

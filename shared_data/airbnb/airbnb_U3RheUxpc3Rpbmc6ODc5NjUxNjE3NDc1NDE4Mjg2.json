@@ -11,6 +11,2138 @@
                             {
                                 "__typename": "PdpReviewForP3",
                                 "collectionTag": null,
+                                "comments": "Had a lovely stay. The room was as advertised. The only issue was that I was told I can have my room cleaned after 6 days of my stay. As I stayed for two weeks, I went to ask the reception to have my room cleaned twice. After both times, nobody cleaned it and by the end of my stay, the toilet and floor had become dirty.",
+                                "id": "1234773896726672021",
+                                "language": "en",
+                                "createdAt": "2024-08-30T15:55:18Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Daksh",
+                                    "hostName": "Daksh",
+                                    "id": "593708282",
+                                    "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=D&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "profilePath": "/users/show/593708282",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=D&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/593708282"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "3 months on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "We’re pleased to hear you had a lovely stay, Daksh. We apologize for the inconvenience you experienced with the room cleaning. Your feedback is valuable, and we’ll address this with our team to ensure improvements are made. We hope to have the opportunity to host you again in the future.",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "It was a good place to stay, very convenient location and decent room, would have been helpful if the place was cleaner and I was informed I could ask for a sheet change after 6 days untill it was too late. But overall a great place to stay in London.",
+                                "id": "1234722163212366707",
+                                "language": "en",
+                                "createdAt": "2024-08-30T14:12:31Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Prerna",
+                                    "hostName": "Prerna",
+                                    "id": "243620302",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/c7d09bd0-0bc7-43ca-856f-de1477c20454.jpg",
+                                    "profilePath": "/users/show/243620302",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/c7d09bd0-0bc7-43ca-856f-de1477c20454.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/243620302"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "6 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback, Prerna. We’re pleased you found the location convenient and the room decent. We apologize for the cleanliness issues and any confusion about the sheet change policy. We’ll address these concerns to improve our service. We hope to welcome you back in the future!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "should be a tv, no plugs near the bed and the bed moves. other than that not a bad stay and nice and quiet",
+                                "id": "1234700036988691524",
+                                "language": "en",
+                                "createdAt": "2024-08-30T13:28:34Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Corey",
+                                    "hostName": "Corey",
+                                    "id": "505003768",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/847003b1-dca1-4a55-94ea-dd6d8a3219da.jpg",
+                                    "profilePath": "/users/show/505003768",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/847003b1-dca1-4a55-94ea-dd6d8a3219da.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/505003768"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "2 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're glad to hear that you found your stay nice and quiet. We appreciate your suggestions about adding a TV, providing plugs near the bed, and addressing the bed movement.<br/>Your comments will help us improve for future guests. We hope to welcome you back for an even better experience!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "I was quite disappointed with my stay. Despite the reviews, I gave it a chance. The room was spacious, well-lit, and new, but I faced many issues. One night, the water stopped, and I needed to shower. They offered me to use the staff bathroom, which was filthy. This happened at 11 PM, and I had to wait a long time until they managed to turn the water back on, as I refused to shower in the dirty room they offered. There was no hot water throughout my stay, and I ended up taking cold showers for 7 nights. The bedlinen was dirty when I arrived, with insects and hair. To solve this situation the staff offering me sheets from another room that I had to get and change myself. The main light didn’t work, and despite reporting it daily, nothing was done. The building and location are good, but the staff is not equipped to handle guest requests.",
+                                "id": "1234688995608130990",
+                                "language": "en",
+                                "createdAt": "2024-08-30T13:06:37Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Yasmim",
+                                    "hostName": "Yasmim",
+                                    "id": "106480806",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-106480806/original/46db8b51-7663-4e3c-9b4e-cb46bf229acf.jpeg",
+                                    "profilePath": "/users/show/106480806",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-106480806/original/46db8b51-7663-4e3c-9b4e-cb46bf229acf.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/106480806"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 2,
+                                "ratingAccessibilityLabel": "Rating, 2 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "I'm truly sorry to hear about your disappointing experience. It’s unacceptable that you faced so many issues during your stay, especially regarding the water supply and the cleanliness of the bed linens.<br/>We sincerely apologize for the inconvenience of having to take cold showers and for the condition of the staff bathroom. It’s concerning that your requests for repairs, like the main light, were not addressed during your stay.<br/>Your feedback is invaluable, and we will be sure to address these issues with our team to ensure that we improve our service and facilities. Thank you for bringing these matters to our attention, and we hope to provide a much better experience in the future.",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Excellent rapport qualité prix. Correspond aux photos. Bien situé. Je recommande. Et pour un prochain séjour seule, je reviendrai ici, simple et efficace.",
+                                "id": "1233278659550469012",
+                                "language": "fr",
+                                "createdAt": "2024-08-28T14:24:32Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Lorie",
+                                    "hostName": "Lorie",
+                                    "id": "58610421",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-58610421/original/568732e8-9055-4e59-98ef-710b0bd01829.jpeg",
+                                    "profilePath": "/users/show/58610421",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-58610421/original/568732e8-9055-4e59-98ef-710b0bd01829.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/58610421"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReview": {
+                                    "__typename": "LocalizedReview",
+                                    "comments": "Excellent value for money. Matches photos. Well located. I recommend it. And for a future stay alone, I will come back here, simple and efficient.",
+                                    "commentsLanguage": "fr",
+                                    "disclaimer": "Translated from French",
+                                    "needsTranslation": true,
+                                    "response": "Thank you very much for your feedback, Lorie! We're so glad you found our value to be a great fit and the location and photos met your expectations. We would be happy to host you again for a future solo stay!",
+                                    "responseDisclaimer": "Translated"
+                                },
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Merci beaucoup pour votre avis, Lorie ! Nous sommes ravis que vous ayez trouvé notre rapport qualité-prix excellent et que l’emplacement et les photos aient correspondu à vos attentes. Nous serions heureux de vous accueillir à nouveau pour un futur séjour en solo !",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Clean",
+                                "id": "1232597518629185466",
+                                "language": "en",
+                                "createdAt": "2024-08-27T15:51:14Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "지민",
+                                    "hostName": "지민",
+                                    "id": "595489539",
+                                    "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=지&im_w=240&im_f=apple-sd-gothic-medium.ttf&im_c=ffffff",
+                                    "profilePath": "/users/show/595489539",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=지&im_w=240&im_f=apple-sd-gothic-medium.ttf&im_c=ffffff",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/595489539"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "2 months on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're glad to hear that you found the accommodation clean.<br/>We hope to welcome you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "非常好",
+                                "id": "1231806827261517192",
+                                "language": "zh",
+                                "createdAt": "2024-08-26T13:40:16Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Qinghao",
+                                    "hostName": "Qinghao",
+                                    "id": "543553772",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-543553772/original/1fbe5485-bb76-49b7-8c5f-53179fb7fa66.jpeg",
+                                    "profilePath": "/users/show/543553772",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-543553772/original/1fbe5485-bb76-49b7-8c5f-53179fb7fa66.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/543553772"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "1 year on Airbnb",
+                                "localizedReview": {
+                                    "__typename": "LocalizedReview",
+                                    "comments": "Excellent",
+                                    "commentsLanguage": "zh",
+                                    "disclaimer": "Translated from Chinese (Simplified)",
+                                    "needsTranslation": true,
+                                    "response": "Thank you for your feedback!We are very happy that you found it very good.If you have any suggestions or need help, please don't hesitate to let us know.Looking forward to welcoming you again!",
+                                    "responseDisclaimer": "Translated"
+                                },
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "谢谢您的反馈！我们很高兴您觉得非常好。如果您有任何建议或需要帮助，请随时告诉我们。期待再次欢迎您！",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Great place to stay. Got what you payed for",
+                                "id": "1231768156131029136",
+                                "language": "en",
+                                "createdAt": "2024-08-26T12:23:26Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Dani",
+                                    "hostName": "Dani",
+                                    "id": "445567375",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/51cf4a50-e1f8-4d14-a289-4c7ead75b979.jpg",
+                                    "profilePath": "/users/show/445567375",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/51cf4a50-e1f8-4d14-a289-4c7ead75b979.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/445567375"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "3 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We’re glad to hear you felt you got good value for your stay. If you need anything else or have any suggestions for improvement, feel free to let us know. We hope to see you again soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": ".",
+                                "id": "1231137524452588697",
+                                "language": "lv",
+                                "createdAt": "2024-08-25T15:30:29Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Anna",
+                                    "hostName": "Anna",
+                                    "id": "556452677",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-556452677/original/d7fd8590-b893-45ab-b86c-86b41c709bde.jpeg",
+                                    "profilePath": "/users/show/556452677",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-556452677/original/d7fd8590-b893-45ab-b86c-86b41c709bde.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/556452677"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "9 months on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for staying with us and we hope to host you again in the future.",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Good place to live for short stays. Next to cally park which is great.",
+                                "id": "1231130143530549248",
+                                "language": "en",
+                                "createdAt": "2024-08-25T15:15:49Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Nitin",
+                                    "hostName": "Nitin",
+                                    "id": "75791856",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/aa611bfe-15c3-4f23-a3f5-57a20425fde8.jpg",
+                                    "profilePath": "/users/show/75791856",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/aa611bfe-15c3-4f23-a3f5-57a20425fde8.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/75791856"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We’re happy to hear that you found it a good place for short stays and enjoyed the proximity to Cally Park.<br/>We look forward to welcoming you back in the future!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Good location and friendly staff, the bathroom could have been cleaner but the rest of the room was fine.",
+                                "id": "1231118504643499661",
+                                "language": "en",
+                                "createdAt": "2024-08-25T14:52:42Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Lily",
+                                    "hostName": "Lily",
+                                    "id": "97613009",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/5271ee78-2fa4-4e3a-884f-63956e4d0f6a.jpeg",
+                                    "profilePath": "/users/show/97613009",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/5271ee78-2fa4-4e3a-884f-63956e4d0f6a.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/97613009"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're pleased to hear that you liked the location and found our staff friendly. We apologize for the bathroom not meeting your cleanliness expectations and will address this with our housekeeping team to ensure it’s improved. If there's anything else we can do to enhance your experience, please let us know. We hope to welcome you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "It’s small but clean, really convenient and with fine price!",
+                                "id": "1230398961489719675",
+                                "language": "en",
+                                "createdAt": "2024-08-24T15:03:06Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Kane",
+                                    "hostName": "Kane",
+                                    "id": "144458426",
+                                    "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=K&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "profilePath": "/users/show/144458426",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=K&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/144458426"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "7 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We’re glad to hear that you found the space clean, convenient, and reasonably priced.<br/>We hope to welcome you back for another stay!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Great space for resting your head if you need to be in central London in the daytime. <br/>The bed was comfy and the room very clean. <br/>There wasn't much to do in the local area, but only a 5 minute walk to the local tube station.",
+                                "id": "1229689203377755752",
+                                "language": "en",
+                                "createdAt": "2024-08-23T15:32:56Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Paige",
+                                    "hostName": "Paige",
+                                    "id": "88897520",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-88897520/original/dd4152dd-d9d0-4e47-89f7-71fb9632f359.jpeg",
+                                    "profilePath": "/users/show/88897520",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-88897520/original/dd4152dd-d9d0-4e47-89f7-71fb9632f359.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/88897520"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We’re glad to hear you found the bed comfy and the room clean. It's great that the location worked well for easy access to central London during the day. We appreciate your note about the local area, and we hope the proximity to the tube station made up for it. Hope to see you soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Great stay, thank you ava and team",
+                                "id": "1229586706541034896",
+                                "language": "en",
+                                "createdAt": "2024-08-23T12:09:17Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Mike",
+                                    "hostName": "Mike",
+                                    "id": "101796058",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/1ea3417e-5b46-4228-b578-2d4a118280f5.jpg",
+                                    "profilePath": "/users/show/101796058",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/1ea3417e-5b46-4228-b578-2d4a118280f5.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/101796058"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your kind words! We're so glad to hear you had a great stay. Ava and the team will be thrilled to know they made your experience enjoyable.<br/>We look forward to welcoming you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Great place to stay. Clean, comfortable, plenty of storage and friendly, helpful staff. I loved staying there",
+                                "id": "1228921426125816320",
+                                "language": "en",
+                                "createdAt": "2024-08-22T14:07:30Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Bev",
+                                    "hostName": "Bev",
+                                    "id": "23266849",
+                                    "pictureUrl": "https://a0.muscache.com/im/users/23266849/profile_pic/1414973864/original.jpg",
+                                    "profilePath": "/users/show/23266849",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/users/23266849/profile_pic/1414973864/original.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/23266849"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "10 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your fantastic review! We're delighted to hear that you found the place clean, comfortable, and well-equipped, and that our staff made a positive impact on your stay.<br/>We’d love to welcome you back anytime!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Good location with tube just around the corner. Shower didn’t drain properly and the water for shower, sink and toilet randomly turned off for a few hours. Had no other issues. Staff were helpful. Overall a good place to stay",
+                                "id": "1228225091528909227",
+                                "language": "en",
+                                "createdAt": "2024-08-21T15:04:00Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Rachael",
+                                    "hostName": "Rachael",
+                                    "id": "243589818",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-243589818/original/9696b020-035f-484f-9377-34d48e806d89.jpeg",
+                                    "profilePath": "/users/show/243589818",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-243589818/original/9696b020-035f-484f-9377-34d48e806d89.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/243589818"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "6 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're glad to hear that you enjoyed the convenient location and found our staff helpful. We apologize for the inconvenience caused by the shower drainage issue and the intermittent water supply. We’ll make sure to address these concerns to improve the experience for future guests. Despite these issues, we're pleased you had a good stay overall, and we hope to have the chance to welcome you back in the future!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "(+) Centrally located, multiple shops close by, easy check in and the possibility to leave your luggage at check out, comfortable beds and modern looking room. Responsive host.<br/>(-) A bit of a dusty room, multiple hairs on ‘clean’ towels. The constant banging of doors from other guests at crazy hours in the morning. Trash bags from other guests left behind in the kitchen for almost the whole duration of my stay (1 week).",
+                                "id": "1227518916385636020",
+                                "language": "en",
+                                "createdAt": "2024-08-20T15:40:57Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chelsea",
+                                    "hostName": "Chelsea",
+                                    "id": "556661895",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-556661895/original/cc975924-c746-400d-9826-6afd175ccb8a.jpeg",
+                                    "profilePath": "/users/show/556661895",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-556661895/original/cc975924-c746-400d-9826-6afd175ccb8a.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/556661895"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "9 months on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your honest feedback. We're glad to hear that you enjoyed our central location, easy check-in process, comfortable beds, and the modern look of the room. It’s also great to know that our host was responsive to your needs.<br/>However, we sincerely apologize for the issues you encountered. The dust in the room, hairs on the towels, and noise from other guests are not up to our usual standards. We'll be addressing these concerns with our cleaning team to ensure better service in the future. Additionally, we'll make sure that common areas, like the kitchen, are monitored more frequently to avoid trash being left behind.<br/>We appreciate your feedback as it helps us improve. If there's anything else you'd like to discuss, please don't hesitate to reach out. We hope to have the opportunity to provide you with a better experience in the future.",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Was really good",
+                                "id": "1226790511817353235",
+                                "language": "en",
+                                "createdAt": "2024-08-19T15:33:45Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Arkadiusz",
+                                    "hostName": "Arkadiusz",
+                                    "id": "550109539",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/128710c1-2c35-4050-b40f-d7e19ec6d5da.jpg",
+                                    "profilePath": "/users/show/550109539",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/128710c1-2c35-4050-b40f-d7e19ec6d5da.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/550109539"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "10 months on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for the feedback! We're happy to hear you had a good experience. If there's anything specific you enjoyed or if you have any suggestions, we'd love to hear them. Looking forward to hosting you again!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Excelente alojamiento, muy tranquilo, tienes tu espacio, baño privado y una cama muy cómoda para dormir. Volvería con mucho gusto.",
+                                "id": "1226740494034244115",
+                                "language": "es",
+                                "createdAt": "2024-08-19T13:54:22Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Javier",
+                                    "hostName": "Javier",
+                                    "id": "288181243",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-288181243/original/d36d4262-a373-487d-ac69-8bdeb25d79cb.jpeg",
+                                    "profilePath": "/users/show/288181243",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-288181243/original/d36d4262-a373-487d-ac69-8bdeb25d79cb.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/288181243"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "Maipú, Chile",
+                                "localizedReview": {
+                                    "__typename": "LocalizedReview",
+                                    "comments": "Excellent accommodation, very quiet, you have your space, private bathroom and a very comfortable bed to sleep. I would come back with great taste.",
+                                    "commentsLanguage": "es",
+                                    "disclaimer": "Translated from Spanish",
+                                    "needsTranslation": true,
+                                    "response": "Thank you so much for your positive comment! We are very happy to know that you enjoyed the tranquility, the space, the private bathroom and the comfort of the bed. It would be a pleasure to have you back. If you need anything in the future or have any suggestions, please let us know. See you next time",
+                                    "responseDisclaimer": "Translated"
+                                },
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "¡Muchas gracias por tu comentario tan positivo! Nos alegra mucho saber que disfrutaste de la tranquilidad, el espacio, el baño privado y la comodidad de la cama. Sería un placer tenerte de vuelta. Si necesitas algo en el futuro o tienes alguna sugerencia, no dudes en decírnoslo. ¡Hasta la próxima",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "I have been recently, is a space for students.<br/>For the price that I payed I couldn’t ask too much.<br/>Position is very good, metro is just 5 min by walk and with one stop you’ll be to king cross.<br/>Room is comfortable, if you don’t want too much and pay less is the perfect place here.",
+                                "id": "1226719889478641868",
+                                "language": "en",
+                                "createdAt": "2024-08-19T13:13:26Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Giuseppe",
+                                    "hostName": "Giuseppe",
+                                    "id": "121096300",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/609ccc57-ef41-45a1-8d83-dee48cead866.jpg",
+                                    "profilePath": "/users/show/121096300",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/609ccc57-ef41-45a1-8d83-dee48cead866.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/121096300"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for sharing your experience! We're glad to hear that the location and the comfort of the room met your needs, especially given the value for the price. It’s great to know that the proximity to the metro made your travel convenient. If you need anything else or have any further suggestions, feel free to let us know. We hope to have the opportunity to host you again!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "I really enjoyed my stay there. Excellent location and very friendly staff.",
+                                "id": "1226060308920297315",
+                                "language": "en",
+                                "createdAt": "2024-08-18T15:22:58Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Anna",
+                                    "hostName": "Anna",
+                                    "id": "351200441",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-351200441/original/1dbedac2-03d6-46ef-9b87-4d812a9af224.jpeg",
+                                    "profilePath": "/users/show/351200441",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-351200441/original/1dbedac2-03d6-46ef-9b87-4d812a9af224.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/351200441"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "4 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your wonderful feedback! We're thrilled to hear that you enjoyed your stay and found the location excellent, along with our friendly staff.<br/>We hope to welcome you back for another great experience!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Good place to stay",
+                                "id": "1225322330545281275",
+                                "language": "en",
+                                "createdAt": "2024-08-17T14:56:44Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Bryony",
+                                    "hostName": "Bryony",
+                                    "id": "288139502",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/8f6a9199-0430-4659-8515-13196d12a40a.jpg",
+                                    "profilePath": "/users/show/288139502",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/8f6a9199-0430-4659-8515-13196d12a40a.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/288139502"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "5 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your review! We're glad to hear you had a positive experience. If there's anything specific you enjoyed or any way we can improve, please let us know. We hope to have the pleasure of hosting you again!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "nice stay",
+                                "id": "1225292787696613153",
+                                "language": "en",
+                                "createdAt": "2024-08-17T13:58:02Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Giulia",
+                                    "hostName": "Giulia",
+                                    "id": "526221460",
+                                    "pictureUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=G&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                    "profilePath": "/users/show/526221460",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=G&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/526221460"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "September 2024",
+                                "localizedReviewerLocation": "1 year on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're glad to hear you had a nice stay.<br/>We hope to welcome you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Perfectly as described. Exactly what I needed. I needed to extend my stay and they were super accommodating.",
+                                "id": "1224575294147383227",
+                                "language": "en",
+                                "createdAt": "2024-08-16T14:12:30Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Bev",
+                                    "hostName": "Bev",
+                                    "id": "23266849",
+                                    "pictureUrl": "https://a0.muscache.com/im/users/23266849/profile_pic/1414973864/original.jpg",
+                                    "profilePath": "/users/show/23266849",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/users/23266849/profile_pic/1414973864/original.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/23266849"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "10 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your wonderful feedback! We're delighted to hear that everything was just as described and that our place met your needs perfectly. It was our pleasure to accommodate your extended stay, and we’re always here to help. We hope to welcome you back again soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "This is a great option for a no fuss stopover. 24hr security and clean apartments. Not brand new, but definitely do the job. Exactly how they are listed. Recommended!",
+                                "id": "1223826829024442882",
+                                "language": "en",
+                                "createdAt": "2024-08-15T13:25:26Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Stuart",
+                                    "hostName": "Stuart",
+                                    "id": "14508944",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/aae648d6-befa-41b2-8cd3-791b249cf645.jpg",
+                                    "profilePath": "/users/show/14508944",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/aae648d6-befa-41b2-8cd3-791b249cf645.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/14508944"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "11 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you so much for your positive review! We're glad to hear that you appreciated the 24-hour security and cleanliness of our apartments. We strive to provide exactly what we promise in our listings, and it's great to know that we met your expectations. We appreciate your recommendation and look forward to hosting you again in the future!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "Perfect budget option. No complains",
+                                "id": "1223791673766034327",
+                                "language": "en",
+                                "createdAt": "2024-08-15T12:15:35Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Andreas",
+                                    "hostName": "Andreas",
+                                    "id": "53264644",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/f0d736d6-d8a2-4ff2-a175-cbd80f3c9071.jpg",
+                                    "profilePath": "/users/show/53264644",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/f0d736d6-d8a2-4ff2-a175-cbd80f3c9071.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/53264644"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for your feedback! We're glad to hear that you found our place to be a perfect budget option. If there's anything we can do to make your next stay even better, please let us know. We hope to welcome you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "주방 같은 공용 시설이 더럽다는 후기를 보고 걱정 했는데 28일동안 너무 깨끗했고 모든 공간이 너무 펀안했습니다. 창문 밖으로 공원이 있어 풍경도 너무 이뻤어요.",
+                                "id": "1223134966785639155",
+                                "language": "ko",
+                                "createdAt": "2024-08-14T14:30:50Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Hyeyeon",
+                                    "hostName": "Hyeyeon",
+                                    "id": "317970417",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-317970417/original/547f8b0a-5f37-45f9-aa34-a824e79b3c34.jpeg",
+                                    "profilePath": "/users/show/317970417",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-317970417/original/547f8b0a-5f37-45f9-aa34-a824e79b3c34.jpeg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/317970417"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "5 years on Airbnb",
+                                "localizedReview": {
+                                    "__typename": "LocalizedReview",
+                                    "comments": "I was worried when I saw the reviews that the shared facilities such as the kitchen were dirty, but it was so clean for 28 days, and all the spaces were so uncomfortable. There was a park outside the window, so the view was so pretty.",
+                                    "commentsLanguage": "ko",
+                                    "disclaimer": "Translated from Korean",
+                                    "needsTranslation": true,
+                                    "response": "Thank you so much for your warm review! We are glad to hear that the shared facilities, such as the kitchen, were kept clean and comfortable. Also, I'm so glad you enjoyed the park view outside your window. We look forward to working with you again in the future. We can't wait to host you again! All the best.",
+                                    "responseDisclaimer": "Translated"
+                                },
+                                "rating": 4,
+                                "ratingAccessibilityLabel": "Rating, 4 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "따뜻한 후기를 남겨주셔서 정말 감사합니다! 주방과 같은 공용 시설이 깨끗하게 유지되어 안심하고 편안하게 지내셨다니 다행입니다. 또한, 창문 밖의 공원 풍경까지 즐기셨다니 정말 기쁩니다. 앞으로도 더 나은 서비스를 제공할 수 있도록 항상 노력하겠습니다. 다시 만나 뵙기를 기대합니다! 감사합니다.",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
+                                "comments": "good stay of a month",
+                                "id": "1222413438234888522",
+                                "language": "en",
+                                "createdAt": "2024-08-13T14:37:17Z",
+                                "reviewee": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Chapter Islington",
+                                    "hostName": "Chapter Islington",
+                                    "id": "488229143",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                    "profilePath": "/users/show/488229143",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/231e159a-58a5-40e8-96dd-198679b129fc.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/488229143"
+                                        }
+                                    }
+                                },
+                                "reviewer": {
+                                    "__typename": "ReviewUser",
+                                    "deleted": false,
+                                    "firstName": "Yun",
+                                    "hostName": "Yun",
+                                    "id": "484694130",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/9cc4e964-44e3-413f-a701-b976713264fe.jpg",
+                                    "profilePath": "/users/show/484694130",
+                                    "isSuperhost": false,
+                                    "userProfilePicture": {
+                                        "__typename": "Image",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/9cc4e964-44e3-413f-a701-b976713264fe.jpg",
+                                        "onPressAction": {
+                                            "__typename": "NavigateToUserProfile",
+                                            "url": "/users/show/484694130"
+                                        }
+                                    }
+                                },
+                                "reviewHighlight": null,
+                                "highlightType": null,
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "Chicago, Illinois",
+                                "localizedReview": null,
+                                "rating": 5,
+                                "ratingAccessibilityLabel": "Rating, 5 stars",
+                                "recommendedNumberOfLines": null,
+                                "response": "Thank you for choosing to stay with us! We're glad to hear you had a good month with us. If there's anything we can do to make your next stay even better, please let us know. We hope to welcome you back soon!",
+                                "roomTypeListingTitle": null,
+                                "highlightedReviewSentence": [],
+                                "highlightReviewMentioned": null,
+                                "showMoreButton": {
+                                    "__typename": "BasicListItem",
+                                    "title": "Show more",
+                                    "loggingEventData": {
+                                        "__typename": "LoggingEventData",
+                                        "loggingId": "pdp.reviews.readMore",
+                                        "experiments": [],
+                                        "eventData": null,
+                                        "eventDataSchemaName": null,
+                                        "section": null,
+                                        "component": null
+                                    }
+                                },
+                                "subtitleItems": [],
+                                "channel": null,
+                                "reviewMediaItems": [],
+                                "isHostHighlightedReview": null,
+                                "reviewPhotoUrls": []
+                            },
+                            {
+                                "__typename": "PdpReviewForP3",
+                                "collectionTag": null,
                                 "comments": "you have to care about cleaning.its realy dirty",
                                 "id": "1218069322357222810",
                                 "language": "en",
@@ -53,9 +2185,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "1 week ago",
-                                "localizedRespondedDate": "5 days ago",
-                                "localizedReviewerLocation": "New to Airbnb",
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "3 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 1,
                                 "ratingAccessibilityLabel": "Rating, 1 star",
@@ -128,8 +2260,8 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "Today",
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "5 years on Airbnb",
                                 "localizedReview": {
                                     "__typename": "LocalizedReview",
@@ -211,9 +2343,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "4 years on Airbnb",
+                                "localizedDate": "August 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "5 years on Airbnb",
                                 "localizedReview": {
                                     "__typename": "LocalizedReview",
                                     "comments": "Location  good, subway in walking distance. Unfortunately, the room is not quite clean. Lots of wear and tear, furniture older. The mattress was completely saggy, but was replaced after consultation at the reception.",
@@ -294,9 +2426,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "1 week ago",
-                                "localizedReviewerLocation": "1 year on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "2 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -369,9 +2501,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "3 months on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "5 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -444,9 +2576,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "7 months on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "9 months on Airbnb",
                                 "localizedReview": {
                                     "__typename": "LocalizedReview",
                                     "comments": "Communication with the team was nice",
@@ -527,9 +2659,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "2 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "9 months on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "11 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -602,8 +2734,8 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "6 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
@@ -677,8 +2809,8 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "2 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
@@ -752,9 +2884,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "8 months on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "10 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -827,9 +2959,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "9 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -902,8 +3034,8 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "8 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 3,
@@ -977,9 +3109,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "10 years on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "11 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -1052,9 +3184,9 @@
                                 },
                                 "reviewHighlight": null,
                                 "highlightType": null,
-                                "localizedDate": "3 weeks ago",
-                                "localizedRespondedDate": "Today",
-                                "localizedReviewerLocation": "4 years on Airbnb",
+                                "localizedDate": "July 2024",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "5 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -1128,7 +3260,7 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "6 days ago",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "Perth, Australia",
                                 "localizedReview": null,
                                 "rating": 5,
@@ -1203,8 +3335,8 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "6 days ago",
-                                "localizedReviewerLocation": "4 months on Airbnb",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "6 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -1278,7 +3410,7 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "8 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
@@ -1353,8 +3485,8 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
-                                "localizedReviewerLocation": "4 months on Airbnb",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "6 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 3,
                                 "ratingAccessibilityLabel": "Rating, 3 stars",
@@ -1428,8 +3560,8 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
-                                "localizedReviewerLocation": "10 years on Airbnb",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "11 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -1503,7 +3635,7 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "10 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
@@ -1578,8 +3710,8 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
-                                "localizedReviewerLocation": "1 month on Airbnb",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "3 months on Airbnb",
                                 "localizedReview": {
                                     "__typename": "LocalizedReview",
                                     "comments": "All in all, the accommodation was good and I got along great with the location!",
@@ -1661,8 +3793,8 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
-                                "localizedReviewerLocation": "1 month on Airbnb",
+                                "localizedRespondedDate": "August 2024",
+                                "localizedReviewerLocation": "3 months on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -1689,7 +3821,36 @@
                                 "reviewMediaItems": [],
                                 "isHostHighlightedReview": null,
                                 "reviewPhotoUrls": []
-                            },
+                            }
+                        ],
+                        "metadata": {
+                            "__typename": "PdpReviewsMetadata",
+                            "reviewsCount": 131,
+                            "modalSubtitle": null,
+                            "isReviewsSearchResults": null,
+                            "isReviewsHighlightTagResults": null,
+                            "isAutoTranslateOn": true,
+                            "endCursor": null,
+                            "experiments": [],
+                            "reviewTags": []
+                        }
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "traceId": "lNzvKUu6dGzoEjWAlSccbg=="
+        }
+    },
+    {
+        "data": {
+            "presentation": {
+                "__typename": "RootPresentationContainer",
+                "stayProductDetailPage": {
+                    "__typename": "StayPDPPresentationContainer",
+                    "reviews": {
+                        "__typename": "PdpReviews",
+                        "reviews": [
                             {
                                 "__typename": "PdpReviewForP3",
                                 "collectionTag": null,
@@ -1736,7 +3897,7 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "1 year on Airbnb",
                                 "localizedReview": {
                                     "__typename": "LocalizedReview",
@@ -1819,7 +3980,7 @@
                                 "reviewHighlight": null,
                                 "highlightType": null,
                                 "localizedDate": "July 2024",
-                                "localizedRespondedDate": "1 week ago",
+                                "localizedRespondedDate": "August 2024",
                                 "localizedReviewerLocation": "Whistler, Canada",
                                 "localizedReview": null,
                                 "rating": 5,
@@ -2045,7 +4206,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "September 2023",
-                                "localizedReviewerLocation": "2 years on Airbnb",
+                                "localizedReviewerLocation": "3 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 3,
                                 "ratingAccessibilityLabel": "Rating, 3 stars",
@@ -2195,7 +4356,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "September 2023",
-                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReviewerLocation": "9 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -2795,7 +4956,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "11 years on Airbnb",
+                                "localizedReviewerLocation": "London, United Kingdom",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -3020,7 +5181,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReviewerLocation": "10 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -3545,7 +5706,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "7 years on Airbnb",
+                                "localizedReviewerLocation": "8 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -3778,7 +5939,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReviewerLocation": "9 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -3805,36 +5966,7 @@
                                 "reviewMediaItems": [],
                                 "isHostHighlightedReview": null,
                                 "reviewPhotoUrls": []
-                            }
-                        ],
-                        "metadata": {
-                            "__typename": "PdpReviewsMetadata",
-                            "reviewsCount": 103,
-                            "modalSubtitle": null,
-                            "isReviewsSearchResults": null,
-                            "isReviewsHighlightTagResults": null,
-                            "isAutoTranslateOn": true,
-                            "endCursor": null,
-                            "experiments": [],
-                            "reviewTags": []
-                        }
-                    }
-                }
-            }
-        },
-        "extensions": {
-            "traceId": "u5iyyhRdjs8TVtsPdL1ASQ=="
-        }
-    },
-    {
-        "data": {
-            "presentation": {
-                "__typename": "RootPresentationContainer",
-                "stayProductDetailPage": {
-                    "__typename": "StayPDPPresentationContainer",
-                    "reviews": {
-                        "__typename": "PdpReviews",
-                        "reviews": [
+                            },
                             {
                                 "__typename": "PdpReviewForP3",
                                 "collectionTag": null,
@@ -3882,7 +6014,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "8 years on Airbnb",
+                                "localizedReviewerLocation": "9 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -4088,8 +6220,8 @@
                                 "reviewer": {
                                     "__typename": "ReviewUser",
                                     "deleted": false,
-                                    "firstName": "Daniel",
-                                    "hostName": "Daniel",
+                                    "firstName": "Dan",
+                                    "hostName": "Dan",
                                     "id": "207648659",
                                     "pictureUrl": "https://a0.muscache.com/im/pictures/user/77321abf-2253-476f-b97c-dcb1f8a0a33c.jpg",
                                     "profilePath": "/users/show/207648659",
@@ -4632,12 +6764,12 @@
                                     "firstName": "Paula",
                                     "hostName": "Paula",
                                     "id": "199373850",
-                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-199373850/original/da024152-4df6-49ea-be98-78154d3ec649.jpeg",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/ab7dffe1-7b0b-4feb-8af1-9ae3407fa738.jpeg",
                                     "profilePath": "/users/show/199373850",
                                     "isSuperhost": false,
                                     "userProfilePicture": {
                                         "__typename": "Image",
-                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User-199373850/original/da024152-4df6-49ea-be98-78154d3ec649.jpeg",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/ab7dffe1-7b0b-4feb-8af1-9ae3407fa738.jpeg",
                                         "onPressAction": {
                                             "__typename": "NavigateToUserProfile",
                                             "url": "/users/show/199373850"
@@ -4948,7 +7080,7 @@
                                 "highlightType": null,
                                 "localizedDate": "August 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "11 years on Airbnb",
+                                "localizedReviewerLocation": "12 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -5323,7 +7455,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "5 years on Airbnb",
+                                "localizedReviewerLocation": "6 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -5382,12 +7514,12 @@
                                     "firstName": "Nilesh",
                                     "hostName": "Nilesh",
                                     "id": "334616276",
-                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/eb9b0809-185b-483a-b30c-bc093ea2be67.jpg",
+                                    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User/original/f70082ef-39ab-4a3f-be69-2bd8a1f3fddc.jpeg",
                                     "profilePath": "/users/show/334616276",
                                     "isSuperhost": false,
                                     "userProfilePicture": {
                                         "__typename": "Image",
-                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/eb9b0809-185b-483a-b30c-bc093ea2be67.jpg",
+                                        "baseUrl": "https://a0.muscache.com/im/pictures/user/User/original/f70082ef-39ab-4a3f-be69-2bd8a1f3fddc.jpeg",
                                         "onPressAction": {
                                             "__typename": "NavigateToUserProfile",
                                             "url": "/users/show/334616276"
@@ -5500,7 +7632,36 @@
                                 "reviewMediaItems": [],
                                 "isHostHighlightedReview": null,
                                 "reviewPhotoUrls": []
-                            },
+                            }
+                        ],
+                        "metadata": {
+                            "__typename": "PdpReviewsMetadata",
+                            "reviewsCount": 131,
+                            "modalSubtitle": null,
+                            "isReviewsSearchResults": null,
+                            "isReviewsHighlightTagResults": null,
+                            "isAutoTranslateOn": true,
+                            "endCursor": null,
+                            "experiments": [],
+                            "reviewTags": []
+                        }
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "traceId": "R8DcOJWMYmj3Ht0aV4alWg=="
+        }
+    },
+    {
+        "data": {
+            "presentation": {
+                "__typename": "RootPresentationContainer",
+                "stayProductDetailPage": {
+                    "__typename": "StayPDPPresentationContainer",
+                    "reviews": {
+                        "__typename": "PdpReviews",
+                        "reviews": [
                             {
                                 "__typename": "PdpReviewForP3",
                                 "collectionTag": null,
@@ -5939,7 +8100,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "July 2023",
-                                "localizedReviewerLocation": "5 years on Airbnb",
+                                "localizedReviewerLocation": "6 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -6089,7 +8250,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReviewerLocation": "10 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -6164,7 +8325,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "July 2023",
-                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReviewerLocation": "10 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -6220,8 +8381,8 @@
                                 "reviewer": {
                                     "__typename": "ReviewUser",
                                     "deleted": false,
-                                    "firstName": "Camila",
-                                    "hostName": "Camila",
+                                    "firstName": "Maria Camila",
+                                    "hostName": "Maria Camila",
                                     "id": "390829093",
                                     "pictureUrl": "https://a0.muscache.com/im/pictures/user/bb35e121-54ad-4c1f-8f1d-40ad38c4ab29.jpg",
                                     "profilePath": "/users/show/390829093",
@@ -6697,7 +8858,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "August 2023",
-                                "localizedReviewerLocation": "9 years on Airbnb",
+                                "localizedReviewerLocation": "10 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -6997,7 +9158,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "July 2023",
-                                "localizedReviewerLocation": "5 years on Airbnb",
+                                "localizedReviewerLocation": "6 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -7380,7 +9541,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "July 2023",
-                                "localizedReviewerLocation": "7 years on Airbnb",
+                                "localizedReviewerLocation": "8 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 5,
                                 "ratingAccessibilityLabel": "Rating, 5 stars",
@@ -7605,7 +9766,7 @@
                                 "highlightType": null,
                                 "localizedDate": "July 2023",
                                 "localizedRespondedDate": "July 2023",
-                                "localizedReviewerLocation": "2 years on Airbnb",
+                                "localizedReviewerLocation": "3 years on Airbnb",
                                 "localizedReview": null,
                                 "rating": 4,
                                 "ratingAccessibilityLabel": "Rating, 4 stars",
@@ -7632,36 +9793,7 @@
                                 "reviewMediaItems": [],
                                 "isHostHighlightedReview": null,
                                 "reviewPhotoUrls": []
-                            }
-                        ],
-                        "metadata": {
-                            "__typename": "PdpReviewsMetadata",
-                            "reviewsCount": 103,
-                            "modalSubtitle": null,
-                            "isReviewsSearchResults": null,
-                            "isReviewsHighlightTagResults": null,
-                            "isAutoTranslateOn": true,
-                            "endCursor": null,
-                            "experiments": [],
-                            "reviewTags": []
-                        }
-                    }
-                }
-            }
-        },
-        "extensions": {
-            "traceId": "8Wiw_A7qdaurfh16Yi1s1g=="
-        }
-    },
-    {
-        "data": {
-            "presentation": {
-                "__typename": "RootPresentationContainer",
-                "stayProductDetailPage": {
-                    "__typename": "StayPDPPresentationContainer",
-                    "reviews": {
-                        "__typename": "PdpReviews",
-                        "reviews": [
+                            },
                             {
                                 "__typename": "PdpReviewForP3",
                                 "collectionTag": null,
@@ -7890,7 +10022,7 @@
                         ],
                         "metadata": {
                             "__typename": "PdpReviewsMetadata",
-                            "reviewsCount": 103,
+                            "reviewsCount": 131,
                             "modalSubtitle": null,
                             "isReviewsSearchResults": null,
                             "isReviewsHighlightTagResults": null,
@@ -7904,7 +10036,7 @@
             }
         },
         "extensions": {
-            "traceId": "g13qLcQI1f0juXCjeWdNXA=="
+            "traceId": "Mtk8p5YLoUbnYKhUCSNxEw=="
         }
     }
 ]
